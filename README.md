@@ -1,4 +1,5 @@
-# labeling-datasets
+# zhiheai-labeling-datasets
+
 📌 For code management of Zhongqiang Zhilian annotated datasets.
 📌 This open-source content is for learning, communication and reference only. Without official written authorization from us, no enterprise or individual may use it for commercial purposes, profit-making, paid services, private deployment, SaaS services, secondary distribution, or integration into commercial products.
 📌 For commercial use, customization, source code licensing or technical cooperation, please contact our business team to obtain official permission.
